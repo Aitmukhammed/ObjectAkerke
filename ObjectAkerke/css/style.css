@@ -1,0 +1,23 @@
+body{background-size: 100%;}
+.paragraph{font-family: FreeMono, monospace;
+    font-size: 14px;
+    line-height: 24px;
+    color: #9b9b9b;
+    padding-top: 8px;
+    word-spacing: -2px;
+padding-left: 15px;}
+
+#filter-search{width: 800px;
+height: 40px;
+text-align: center;
+margin-left: 350px;
+margin-top: 50px;
+border: 2px solid gray;
+border-radius: 5px;
+cursor: ;
+}
+
+#filter-search:hover {
+  border-color : #FFFFFF;
+}
+
